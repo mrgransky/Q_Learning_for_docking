@@ -2,7 +2,7 @@
 // Q_learning with reward distribution...
 // for further sample codes, please visit my GitHub page...
 
-// ----- How to Compile and run c++ file in Ubuntu ------ //
+// ----- How to Compile and run c++ file in Ubuntu ----- //
  
  // In a terminal, go to directory that your c++ file exsist and To compile your c++ code, :
  
