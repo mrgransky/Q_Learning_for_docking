@@ -1,7 +1,10 @@
-# Q_Learning_for_docking
+# Q_Learning_for_Docking
 Q_learning algorithm has been developed to move an autonomous agent from state to state and eventually dock the mobile robot
 
 # Virtual Grid for the docking area:
+
+Algorithm is developed in c++ with:
+
 - 4 actions (steering and driving velocities)
 - 2 states (position and orientation)
 
@@ -9,4 +12,9 @@ Q_learning algorithm has been developed to move an autonomous agent from state t
 
 
 Test:
+
+Generated with MATLAB:
+
+![capture](https://cloud.githubusercontent.com/assets/11946010/22125320/814fdfa4-de93-11e6-846f-b44579b109de.JPG)
+
 
